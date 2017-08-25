@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSShooter", "Assembly-CSharp.csproj", "{3325D0A2-F620-8F01-A221-F3C831193FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3325D0A2-F620-8F01-A221-F3C831193FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3325D0A2-F620-8F01-A221-F3C831193FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3325D0A2-F620-8F01-A221-F3C831193FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3325D0A2-F620-8F01-A221-F3C831193FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
