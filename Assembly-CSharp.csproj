@@ -49,8 +49,13 @@
      <Compile Include="Assets\Prefabs\SlidingDoor\Door.cs" />
      <Compile Include="Assets\Scripts\GameCamera.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
+     <Compile Include="Assets\Scripts\Inventory.cs" />
+     <Compile Include="Assets\Scripts\Mining.cs" />
+     <Compile Include="Assets\Scripts\MiningDrill.cs" />
      <Compile Include="Assets\Scripts\MouseManager.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Resources.cs" />
+     <Compile Include="Assets\Scripts\Stats.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
